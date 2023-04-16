@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is the repo of "Simplifying sparse expert recommendation using temporal-aware graph diffusion in community question answering" 31st ACM International Conference on User Modeling, Adaptation and Personalization (ACM-UMAP), 2023
+This is the repo of "Temporal-weighted bipartite graph model for sparse expert recommendation in community question answering" 31st ACM International Conference on User Modeling, Adaptation and Personalization (ACM-UMAP), 2023
 
 ## Preparing Data
 
