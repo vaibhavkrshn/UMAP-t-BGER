@@ -1,11 +1,9 @@
 # t-BGER
-This is the repository for our UMAP 2023 publication
 
 
 ## Introduction
 
-This is the repo of "Simplifying sparse expert recommendation using temporal-aware
-graph diffusion in community question answering"
+This is the repo of "Simplifying sparse expert recommendation using temporal-aware graph diffusion in community question answering" 31st ACM International Conference on User Modeling, Adaptation and Personalization (ACM-UMAP), 2023
 
 ## Preparing Data
 
